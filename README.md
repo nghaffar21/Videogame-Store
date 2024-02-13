@@ -5,7 +5,7 @@ This project was a teamwork of me and two of my classmates. We applied the three
 
 1 - Specification(Requirements Analysis, Design of Class diagram, Sequence diagrams, and Use-case diagrams)
 2 - Design(User Interface Design, Layered Architecture using Facade Controller: Presentation, Domain, and Data layers)
-3 - Implementation(Database Design, Write C++ code, Connect the C++ project with the Database using pqxx)
+3 - Implementation(Use of Transaction Script Pattern, Database Design in PostgreSQL, Write C++ code, Connect the C++ project with the Database using pqxx)
 
 Here is the final class diagram:
 
