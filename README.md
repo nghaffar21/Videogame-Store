@@ -8,7 +8,7 @@ This project was a teamwork of me and two of my classmates. We applied the three
 
 2 - Design(User Interface Design, Layered Architecture using Facade Controller: Presentation, Domain, and Data layers)
 
-3 - Implementation(Use of Transaction Script Pattern, Database Design in PostgreSQL, Write C++ code, Connect the C++ project with the Database using pqxx)
+3 - Implementation(Use of Transaction Script Pattern, Database Design in PostgreSQL, Write C++ code, Connect the C++ project with the Database using libpqxx)
 
 ## Class Diagram
 
@@ -24,4 +24,4 @@ This project was a teamwork of me and two of my classmates. We applied the three
 
 ## Compile and Run
 
-To run the program, first the library libpqxx should be installed. Second, you must have the local database setup as the diagram above. Then you can go to Sistema_Videojocs_Nima_Arturo_Eric -> x64 -> Debug -> Sistema_Videojocs and run the program.
+To run the program, you might need to install the library libpqxx. Second, you must have the local database setup as the diagram above shows. Then you can go to Sistema_Videojocs_Nima_Arturo_Eric -> x64 -> Debug -> Sistema_Videojocs and run the program.
