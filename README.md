@@ -24,4 +24,4 @@ This project was a teamwork of me and two of my classmates. We applied the three
 
 ## Compile and Run
 
-To run the program, first you must have the local database setup as the diagram above. Then you can go to Sistema_Videojocs_Nima_Arturo_Eric -> x64 -> Debug -> Sistema_Videojocs.
+To run the program, first the library libpqxx should be installed. Second, you must have the local database setup as the diagram above. Then you can go to Sistema_Videojocs_Nima_Arturo_Eric -> x64 -> Debug -> Sistema_Videojocs and run the program.
