@@ -22,3 +22,6 @@ This project was a teamwork of me and two of my classmates. We applied the three
 
 ![297515066-6fce83a5-8f7c-4269-9379-fbe1ecbce95e](https://github.com/nghaffar21/Videogame-Store/assets/55944424/e2644d2f-5115-4172-819a-faeb88eff13a)
 
+## Compile and Run
+
+To run the program, first you must have the local database setup as the diagram above. Then you can go to Sistema_Videojocs_Nima_Arturo_Eric -> x64 -> Debug -> Sistema_Videojocs.
